@@ -156,7 +156,7 @@ let
     "-release"
 
     "-shared"
-    "-static"
+    # "-static"
 
     # "-platform" "linux-clang"
     "-xplatform" "android-clang"
